@@ -1,4 +1,4 @@
-documentclass: apa7
+documentclass: apa7tec
 classoption:
   - stu
 author: Aaron González, Daniel Porras, Anthony Jiménez 
@@ -11,3 +11,8 @@ header-includes: |
   \duedate{\today}
   \course{Bases de Datos II}
   \shorttitle{auditoria}
+  \venue{San Carlos}
+  \mes{Abril}
+
+nocite: |
+  @*

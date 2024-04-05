@@ -1,0 +1,13 @@
+documentclass: apa7
+classoption:
+  - stu
+author: Aaron González, Daniel Porras, Anthony Jiménez 
+title: "I Proyecto Base de Datos"
+lang: es
+toc: true
+header-includes: |
+  \affiliation{ITCR}
+  \professor{Leonardo Víquez}
+  \duedate{\today}
+  \course{Bases de Datos II}
+  \shorttitle{auditoria}
